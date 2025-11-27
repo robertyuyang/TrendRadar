@@ -1,6 +1,11 @@
 
 DeepSeek
 
+RAG
+Agent
+多模态
+ai coding
+
 字节
 bytedance
 
@@ -10,11 +15,6 @@ Microsoft
 OpenAI
 ChatGPT
 
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
 
 谷歌
 google
@@ -37,8 +37,5 @@ ai
 !gai
 人工智能
 
-RAG
-Agent
-多模态
-ai coding
+
 
