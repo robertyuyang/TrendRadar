@@ -1,4 +1,4 @@
-name: Hot News Crawler
+name: My AI News Crawler
 
 on:
   schedule:
